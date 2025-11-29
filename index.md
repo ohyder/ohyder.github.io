@@ -3,7 +3,7 @@ layout: splash
 title: "Omar Hyder"
 permalink: /
 splash:
-  image: /assets/images/hero.jpg
+  image: [/assets/images/hero.jpg]
 ---
 
 Welcome — I am an intensivist, anesthesiologist, outcomes researcher, and data enthusiast.
