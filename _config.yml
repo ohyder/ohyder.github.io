@@ -2,9 +2,9 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-title: "OHyder"
-email: "you@example.com"
-description: "Short professional tagline"
+title: "Omar Hyder"
+email: "ohyder[at]mgh[dot]harvard[dot]edu"
+description: "Anesthesiologist, Intesnivist, Data Enthusiast, Outcomes Researcher, Bean-to-bar Chocolate Maker"
 baseurl: "" # no leading slash for user site
 url: "https://ohyder.github.io"
 
