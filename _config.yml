@@ -1,0 +1,24 @@
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+title: "OHyder"
+email: "you@example.com"
+description: "Short professional tagline"
+baseurl: "" # no leading slash for user site
+url: "https://ohyder.github.io"
+
+# theme options
+theme_skin: "minimal"
+show_git_profile: true
+collections:
+  posts:
+    output: true
+
+# navigation (example)
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
