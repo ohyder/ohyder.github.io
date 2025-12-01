@@ -1,4 +1,8 @@
-
+---
+layout: single
+title: "About"
+permalink: /
+---
 
 # Omar Hyder, MD, MS
 
