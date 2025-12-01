@@ -1,8 +1,4 @@
----
-layout: single
-title: "About"
-permalink: /about/
----
+
 
 # Omar Hyder, MD, MS
 
