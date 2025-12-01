@@ -1,11 +1,3 @@
----
----
-layout: splash
-title: "Omar Hyder"
-permalink: /
-splash:
-  image: [/assets/images/hero.jpg]
----
 
 ### Omar Hyder, MD, MS  
 **Clinician–scientist • ICU director • Procedural innovator**  
