@@ -21,7 +21,6 @@ Massachusetts General Hospital • Harvard Medical School
     <p style="margin:0;">
       I am an intensivist, anesthesiologist, and outcomes researcher. My work spans ICU operations and capacity planning, frailty and perioperative outcomes research, procedural ergonomics, and applied methods for analyzing observational data. I build pragmatic tools for measurement and risk adjustment and develop training programs for point-of-care ultrasound and airway management.
     </p>
-        
       <p style="margin:0;">
       If you are visiting because I cared for you or a loved one, please know it was an honor to be part of your care team—your health and experience are always our highest priority. I welcome you to get in touch, and if you are able, to consider supporting my research through a charitable donation.
     </p>
@@ -50,7 +49,7 @@ Massachusetts General Hospital • Harvard Medical School
 2. Hyder O, Wiener-Kronish JP, Shelton KT. *Emergency Intubation—A High-Stakes Procedure with Critical Gaps in Understanding Team Impact.* AJRCCM. 2025;211(9):1725–1726.  
 3. Hyder O, Dodson RM, Nathan H, et al. *Influence of patient, physician, and hospital factors on 30-day readmission after pancreatoduodenectomy.* JAMA Surg. 2013;148(12):1095–1102.
 
-[View full publications →](/publications/)
+[View more publications →](/publications/)
 
 ---
 
