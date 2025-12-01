@@ -21,7 +21,8 @@ Snowflake for Epic data, reinforcement learning (RL)
 ## Research Projects
 Below is a selection of major research projects as of December 2025. My current work is self-funded, and I welcome opportunities for collaboration. Please feel free to reach out. At this time, I do not have openings for research assistants or coordinators.
 
----
+
+
 
 **Classification of Frailty in Surgical Patients**
 
