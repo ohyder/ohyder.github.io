@@ -9,7 +9,7 @@
 ---
 
 
-## 👋 Introduction
+## Introduction
 
 I am an anesthesiologist, critical care physician, and clinical epidemiologist at Massachusetts General Hospital and Harvard Medical School. My work spans critical care operations leadership, perioperative outcomes research, procedural innovation, and medical education.
 
@@ -19,7 +19,7 @@ Outside the hospital, I make bean-to-bar chocolate, bike everywhere, and spend a
 ---
 
 
-## 🏥 Clinical & Operational Leadership
+## Clinical & Operational Leadership
 
 I currently serve as a **Director of the Ellison 14 Multidisciplinary Intensive Care Unit** at MGH, where I lead clinical operations, quality improvement initiatives, and strategic development for a high-acuity, 10-bed multispecialty ICU.  
 
@@ -29,7 +29,7 @@ Since assuming leadership in 2020, our team—**Jenn Albert, Sue Algeri, and I**
 ---
 
 
-## 🎓 Research Focus
+## Research Focus
 
 My academic path began as a **Fulbright Scholar** in 2008, studying epidemiology and biostatistics at the Harvard School of Public Health. Today, my research focuses on:
 
@@ -46,7 +46,7 @@ I have authored **45+ peer-reviewed publications**, contributed to major clinica
 ---
 
 
-## 🛠️ Clinical & Procedural Expertise
+## Clinical & Procedural Expertise
 
 I am recognized nationally for expertise in:
 
@@ -63,7 +63,7 @@ My device innovation work includes an ergonomic accessory for ultrasound-guided 
 ---
 
 
-## 🏛 Academic & Professional Roles
+## Academic & Professional Roles
 - **Instructor in Anesthesia**, Harvard Medical School (2019–present)  
 - **Director**, Ellison 14 Multispecialty ICU, MGH (2022–present) — shared with Dr. John Schulz  
 - **Associate Director**, Ellison 14 ICU (2020–2022)  
