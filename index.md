@@ -1,12 +1,15 @@
 
-### Omar Hyder, MD, MS  
-**Clinician–scientist • ICU director • Procedural innovator**  
-Massachusetts General Hospital • Harvard Medical School
+
 
 <div style="display:flex;align-items:center;gap:16px;margin-top:12px;">
   <div>
     <img src="https://avatars.githubusercontent.com/u/117773166" alt="Omar Hyder" style="width:120px;height:120px;border-radius:999px;object-fit:cover;border:2px solid rgba(255,255,255,0.9);box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
   </div>
+
+  ### Omar Hyder, MD, MS  
+**Clinician–scientist • ICU director • Procedural innovator**  
+Massachusetts General Hospital • Harvard Medical School
+
   <div>
     <p style="margin:0;">
       I am an intensivist, anesthesiologist, and outcomes researcher. My work spans ICU operations and capacity planning, frailty and perioperative outcomes research, procedural ergonomics, and applied methods for analyzing observational data. I build pragmatic tools for measurement and risk adjustment and develop training programs for point-of-care ultrasound and airway management.
