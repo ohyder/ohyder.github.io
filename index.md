@@ -10,7 +10,8 @@ Massachusetts General Hospital • Harvard Medical School
   <div>
     <p style="margin:0;">
       I am an intensivist, anesthesiologist, and outcomes researcher. My work spans ICU operations and capacity planning, frailty and perioperative outcomes research, procedural ergonomics, and applied methods for analyzing observational data. I build pragmatic tools for measurement and risk adjustment and develop training programs for point-of-care ultrasound and airway management.
-
+    </p>
+        <p style="margin:0;">
       If you are visiting because I cared for you or a loved one, please know it was an honor to be part of your care team—your health and experience are always our highest priority. I welcome you to get in touch, and if you are able, to consider supporting my research through a charitable donation.
     </p>
   </div>
