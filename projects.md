@@ -8,7 +8,7 @@ permalink: /projects/
 ## Research Projects
 Below is a selection of major research projects as of December 2025. My current work is self-funded, and I welcome opportunities for collaboration. Please feel free to reach out. At this time, I do not have openings for research assistants or coordinators.
 
-## Technical Research Expertise
+**Technical Research Expertise**
 
 **High (expert-level):**  
 Administrative data (HCUP-NIS, HCUP-SID), logistic regression, ICD-10 coding, SAS programming, use of large language models for coding and editing
@@ -21,7 +21,8 @@ Snowflake for Epic data, reinforcement learning (RL)
 
 ---
 
-## Classification of Frailty in Surgical Patients
+**Classification of Frailty in Surgical Patients**
+
 **Role:** Principal Investigator  
 **Status:** In analysis and manuscript development
 
@@ -34,7 +35,8 @@ Key methods and data sources include:
 
 ---
 
-## Impact of Frailty on In-Hospital Outcomes of Major Thoracic Surgery  
+**Impact of Frailty on In-Hospital Outcomes of Major Thoracic Surgery**
+
 **Role:** Principal Investigator  
 **Status:** Paper 1 in second-round review at *Journal of Geriatric Oncology*; additional analyses planned
 
@@ -47,7 +49,8 @@ Innovations include:
 
 ---
 
-## Impact of Surgical Urgency on In-Hospital Mortality  
+**Impact of Surgical Urgency on In-Hospital Mortality**
+
 **Role:** Principal Investigator  
 **Status:** Paper in second-round review at *Anesthesiology*
 
@@ -57,7 +60,8 @@ This project contextualizes those findings by demonstrating that **urgency alone
 
 ---
 
-## ICU Utilization Trends for Non-Cardiac Surgical Patients Over Time  
+**ICU Utilization Trends for Non-Cardiac Surgical Patients Over Time**
+
 **Role:** Principal Investigator  
 **Status:** In analysis
 
@@ -72,7 +76,8 @@ The goal is to provide empirical evidence for what many clinicians experience da
 
 ---
 
-## Device Design: Improving the Ergonomics of Handheld Ultrasound Probes (2020–2023)  
+**Device Design: Improving the Ergonomics of Handheld Ultrasound Probes (2020–2023)**
+
 **Role:** Principal Investigator  
 **Status:** Not active at this time  
 **Sponsor:** MGH Department of Anesthesia, Critical Care, and Pain Medicine Innovation Grants  
