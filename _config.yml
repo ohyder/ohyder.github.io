@@ -1,24 +1,19 @@
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-primer
 
 title: "Omar Hyder"
 email: "ohyder[at]mgh[dot]harvard[dot]edu"
-description: "Anesthesiologist, Intensivist, Data Enthusiast, Outcomes Researcher, Bean-to-bar Chocolate Maker"
-baseurl: "" # no leading slash for user site
+description: "Anesthesiologist, Intensivist, Data Enthusiast, Outcomes Researcher"
+baseurl: ""
 url: "https://ohyder.github.io"
 
-# theme options
-theme_skin: "minimal"
-show_git_profile: true
-
+# keep defaults you want
 collections:
   posts:
     output: true
 
-# defaults for pages
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "single"
-
