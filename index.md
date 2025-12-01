@@ -1,4 +1,8 @@
-
+---
+layout: single
+title: "Omar Hyder"
+permalink: /
+---
 
 
 <div style="display:flex;align-items:center;gap:16px;margin-top:12px;">
