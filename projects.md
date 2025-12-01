@@ -5,12 +5,7 @@ permalink: /projects/
 ---
 
 
-## Research Projects
-Below is a selection of major research projects as of December 2025. My current work is self-funded, and I welcome opportunities for collaboration. Please feel free to reach out. At this time, I do not have openings for research assistants or coordinators.
-
----
-
-**Technical Research Expertise**
+## Technical Research Expertise
 
 **High (expert-level):**  
 Administrative data (HCUP-NIS, HCUP-SID), logistic regression, ICD-10 coding, SAS programming, use of large language models for coding and editing
@@ -20,6 +15,11 @@ Python, SQL, ML models, generalized estimating equations (GEEs), mixed models, S
 
 **Aspirational / Actively learning:**  
 Snowflake for Epic data, reinforcement learning (RL)
+
+---
+
+## Research Projects
+Below is a selection of major research projects as of December 2025. My current work is self-funded, and I welcome opportunities for collaboration. Please feel free to reach out. At this time, I do not have openings for research assistants or coordinators.
 
 ---
 
