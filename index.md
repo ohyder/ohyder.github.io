@@ -5,11 +5,11 @@ Massachusetts General Hospital • Harvard Medical School
 
 <div style="display:flex;align-items:center;gap:16px;margin-top:12px;">
   <div>
-    <img src="/assets/images/avatar.jpg" alt="Omar Hyder" style="width:120px;height:120px;border-radius:999px;object-fit:cover;border:2px solid rgba(255,255,255,0.9);box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
+    <img src="https://avatars.githubusercontent.com/u/117773166" alt="Omar Hyder" style="width:120px;height:120px;border-radius:999px;object-fit:cover;border:2px solid rgba(255,255,255,0.9);box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
   </div>
   <div>
     <p style="margin:0;">
-      I am an intensivist, anesthesiologist, and outcomes researcher. My work spans ICU operations and capacity planning, frailty and perioperative outcomes research, procedural ergonomics, and applied methods for observational data. I build pragmatic tools for measurement and risk adjustment and design training programs for point-of-care ultrasound and airway management.
+      I am an intensivist, anesthesiologist, and outcomes researcher. My work spans ICU operations and capacity planning, frailty and perioperative outcomes research, procedural ergonomics, and applied methods for observational data. I build pragmatic tools for measurement and risk adjustment and design training programs for point-of-care ultrasound and airway management. If I took care of you or a family member - It was an honor and pleasure to be part of your care team. Please consider supporting my research work with a charitable donation. 
     </p>
   </div>
 </div>
@@ -17,8 +17,8 @@ Massachusetts General Hospital • Harvard Medical School
 ### Quick links
 - [About](/about/) — bio, roles, and research interests  
 - [Projects](/projects/) — active research lines & device work  
-- [Publications](/publications/) — selected & full bibliography (from CV)  
-- [Contact](/contact/) — safe contact options
+- [Publications](/publications/) — selected bibliography  
+- [Contact](/contact/) — more information and contact options
 
 ---
 
