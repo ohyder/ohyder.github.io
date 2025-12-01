@@ -5,9 +5,11 @@ permalink: /
 ---
 
 
-  ### Omar Hyder, MD, MS  
+### Omar Hyder, MD, MS  
 **Clinician–scientist • ICU director • Procedural innovator**  
 Massachusetts General Hospital • Harvard Medical School
+
+
 
 
 <div style="display:flex;align-items:center;gap:16px;margin-top:12px;">
@@ -24,6 +26,8 @@ Massachusetts General Hospital • Harvard Medical School
     </p>
   </div>
 </div>
+
+
 
 ### Quick links
 - [About](/about/) — bio, roles, and research interests  
