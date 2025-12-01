@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Publications
-
 ---
 
 ## Peer-Reviewed Research Articles (Selected)
