@@ -45,11 +45,8 @@ Massachusetts General Hospital • Harvard Medical School
 ---
 
 ### Selected recent publications
-1. Barragan-Bradford D, Oganesyan R, Nagrebetsky A, Hyder O. The Effect of Frailty on Early Postoperative Outcomes of Elective Lobectomy for Lung Cancer in Older Adults – A US National Retrospective Cohort Study. Journal of Geriatric Oncology 2026. In press. <a href="[https://github.com/ohyder/ohyder.github.io/blob/main/DBB%20OH%20-JGO%20Preprint.pdf]">Link to AAM PDF</a>
+1. Barragan-Bradford D, Oganesyan R, Nagrebetsky A, Hyder O. The Effect of Frailty on Early Postoperative Outcomes of Elective Lobectomy for Lung Cancer in Older Adults – A US National Retrospective Cohort Study. Journal of Geriatric Oncology 2026. In press.
 2. Hyder O, Pawlik TM. Surgical Urgency and Perioperative Mortality: A National Analysis Using Procedure-Specific Classification. Anesthesiology 2026. In press. 
-3. Michard F, **Hyder O**, et al. *Wireless wearables for postoperative surveillance on surgical wards.* BJA Open. 2022;1(C):100002.  
-4. Hyder O, Wiener-Kronish JP, Shelton KT. *Emergency Intubation—A High-Stakes Procedure with Critical Gaps in Understanding Team Impact.* AJRCCM. 2025;211(9):1725–1726.  
-5. Hyder O, Dodson RM, Nathan H, et al. *Influence of patient, physician, and hospital factors on 30-day readmission after pancreatoduodenectomy.* JAMA Surg. 2013;148(12):1095–1102.
 
 [View more publications →](/publications/)
 
